@@ -2,6 +2,8 @@
 
 ## Welcome to GitHub Pages
 
+$$ \int_0^1 \text{d}x f(x) $$
+
 You can use the [editor on GitHub](https://github.com/mihccmd/mihccmd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
